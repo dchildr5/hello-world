@@ -1,5 +1,5 @@
 # hello-world
-Just another repository 
+ 
 Hi everyone!
 
 I'm a college student. 
